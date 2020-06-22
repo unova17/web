@@ -12,6 +12,10 @@ li {
   height: 90px;
 }
 
+.header li {
+  font-size: 20px;
+}
+
 .header-logo {
   float: left;
   font-size: 36px;
@@ -21,7 +25,6 @@ li {
 .header-list li {
   float: left;
   padding: 33px 20px;
-  font-size: 20px;
 }
 
 .main {
